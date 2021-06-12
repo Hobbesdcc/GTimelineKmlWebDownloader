@@ -9,3 +9,11 @@ Script to download kml files from google timeline web interface, Set start date,
 4. Input how many days you want. (good idea just to test it out with a few days first)
 5. Hit enter, and it should download your days from google timeline.
 6. The downloads will go to your download folder, or where ever your browsers download folder is.
+
+![Example](example.png)
+
+
+## Tips
+* I downloaded 356 days in each go, went through and did each year that way. Running on chrome, things slowed down a lot, but it worked. About 15mins of work and got the last 8 years of days all in there individual kml files.
+
+* I used software called "GPXSee" to visualize it locally on my own machine, its also able to pull in some or all your days and show them all on the map at once.
