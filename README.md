@@ -1,5 +1,9 @@
 # GTimelineKmlWebDownloader
-Script to download kml files from google timeline web interface, Set start date, and number of days to download.
+Simple Script to download all the individual days kml files from google timeline web interface. Just Set start date, and number of days to download!
+
+## why?
+* Google take out only gives you Json files, or ONE big KML file with ALL your raw data. It also strips out all the nice Waypoint labels and all the nice tracks infomation like "Running" or "Driving". When you Export a single day from the Web interface, it leaves all that data intacted, BUT you can only download one day at a time. 
+
 
 
 ## To Run
