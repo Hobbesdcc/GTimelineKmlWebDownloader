@@ -1,4 +1,4 @@
-# GTimelineKmlWebDownloader
+# Google Timeline .kml file Downloader
 Simple Script to download all the individual days kml files from google timeline web interface. Just Set start date, and number of days to download!
 
 ## why?
